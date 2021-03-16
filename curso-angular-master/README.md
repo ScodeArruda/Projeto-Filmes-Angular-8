@@ -1,5 +1,7 @@
 # Projeto Angular 8 - Web site de filme
 
+#Acesse o site para ver uma prévia https://scode-filmes.web.app
+
 ## Instalação
 
 1. clone o repositório `git clone git@github.com:ScodeArruda/Projeto-Angular-8.git`
